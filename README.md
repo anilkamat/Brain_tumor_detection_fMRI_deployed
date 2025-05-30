@@ -2,6 +2,8 @@
 
 This project uses a VGG16 deep learning model to detect three types of Brain tumors from fMRI images. 
 It also contains deployment scripts that can be hosted locally. 
+Dataset: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?resource=download
+
 #### An example of the project run successfully in local host is shown below: 
 ![My Image](deployed_project_overview.PNG)
 
